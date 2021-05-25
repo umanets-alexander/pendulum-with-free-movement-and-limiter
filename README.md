@@ -8,6 +8,6 @@
 ![](https://github.com/umanets-alexander/pendulum-with-free-movement-and-limiter/blob/main/img/free.gif)
 > Пример построения синусоидального графика и получения данных при свободном движении маятника
 
-![](https://github.com/umanets-alexander/pendulum-with-free-movement-and-limiter/blob/main/img/limitatuion.gif)
+![](https://github.com/umanets-alexander/pendulum-with-free-movement-and-limiter/blob/main/img/limitation.gif)
 > Пример построения синусоидального графика и получения данных при движении маятника с препятствием
 
