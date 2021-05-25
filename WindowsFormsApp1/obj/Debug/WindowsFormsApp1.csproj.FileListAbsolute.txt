@@ -1,0 +1,56 @@
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Дипломный проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Дипломный проект\WindowsFormsApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FridayThirteen\Desktop\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\FridayThirteen\Desktop\Временный мусор\Диплом\Диплом - Маятник с препятствием, Достовалов\Windows-приложение\Новая папка\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
